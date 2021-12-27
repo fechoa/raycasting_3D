@@ -34,7 +34,7 @@ The game can accept any valid card created by the user, and it looks like this:
 2. Run the program with one argument (map), like this:
 
    ```sh
-   $ ./cub3D maps/valud1.cub
+   $ ./cub3D maps/valid1.cub
    ```
    
 3. Control
